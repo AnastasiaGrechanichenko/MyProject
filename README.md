@@ -1,6 +1,6 @@
 # MyProject
-Сайт книжного интернет-магазина
-[Макет для верстки] https://www.figma.com/design/uwJfqH35ZBitgvrT0ArweY/Book-store-template--Community-?node-id=88-4673&t=iwpBdd26TGHScOVb-1
+# Сайт книжного интернет-магазина
+[Макет для верстки](https://www.figma.com/design/uwJfqH35ZBitgvrT0ArweY/Book-store-template--Community-?node-id=88-4673&t=iwpBdd26TGHScOVb-1)
 
 ## Похожие интернет-магазины:
 
